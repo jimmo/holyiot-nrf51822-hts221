@@ -1,0 +1,3 @@
+target.app: apps/main
+target.bsp: "hw/bsp/holyiot-nrf51822-hts221"
+target.build_profile: debug

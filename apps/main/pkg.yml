@@ -17,11 +17,11 @@
 # under the License.
 #
 
-pkg.name: apps/blinky
+pkg.name: apps/main
 pkg.type: app
-pkg.description: Basic example application which blinks an LED.
-pkg.author: "Apache Mynewt <dev@mynewt.apache.org>"
-pkg.homepage: "http://mynewt.apache.org/"
+pkg.description: BLE temperature beacon.
+pkg.author: "Jim Mussared <jim.mussared@gmail.com>"
+pkg.homepage: "https://github.com/jimmo/"
 pkg.keywords:
 
 pkg.deps:

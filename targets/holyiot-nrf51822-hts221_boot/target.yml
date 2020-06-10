@@ -1,0 +1,3 @@
+target.app: "@mcuboot/boot/mynewt"
+target.bsp: "hw/bsp/holyiot-nrf51822-hts221"
+target.build_profile: optimized

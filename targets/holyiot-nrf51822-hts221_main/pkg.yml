@@ -1,4 +1,4 @@
-pkg.name: targets/microbit_blinky
+pkg.name: "targets/holyiot-nrf51822-hts221_main"
 pkg.type: target
 pkg.description: 
 pkg.author: 
