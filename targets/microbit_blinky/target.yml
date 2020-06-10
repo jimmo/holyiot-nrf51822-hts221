@@ -1,0 +1,3 @@
+target.app: apps/blinky
+target.bsp: "@apache-mynewt-core/hw/bsp/bbc_microbit"
+target.build_profile: optimized

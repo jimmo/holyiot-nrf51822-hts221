@@ -1,0 +1,5 @@
+syscfg.vals:
+        BLE_HCI_TRANSPORT: builtin
+        BLE_ROLE_OBSERVER: 0
+        BLE_ROLE_CENTRAL: 0
+        OS_MAIN_STACK_SIZE: 336
