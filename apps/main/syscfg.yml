@@ -3,3 +3,5 @@ syscfg.vals:
     BLE_ROLE_OBSERVER: 0
     BLE_ROLE_CENTRAL: 0
     OS_MAIN_STACK_SIZE: 336
+
+    BLE_LL_TX_PWR_DBM: 4
